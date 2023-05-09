@@ -1,0 +1,7 @@
+pygame
+pandas
+scikit-learn
+numpy
+matplotlib
+opencv-python
+requests
